@@ -1,2 +1,0 @@
-# payme
-payme
